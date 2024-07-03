@@ -1,0 +1,11 @@
+{
+    "name": "Daily Affirmations",
+    "version": "1.0.0",
+    "description": "Daily affirmations to boost positivity and motivation",
+    "manifest_version": 3,
+    "author": "Tshegofatso Isaac",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Daily Affirmations"
+    }
+}
